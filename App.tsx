@@ -6,115 +6,115 @@ const buttonData = [
   {
     name: "C",
     color: "red",
-    background: "grey",
+    background: "#595957",
     value: "C"
   },
   {
     name: "()",
     color: "green",
-    background: "grey",
+    background: "#595957",
     value: "()"
   },
   {
     name: "%",
     color: "green",
-    background: "grey",
+    background: "#595957",
     value: "%"
   },
   {
     name: "/",
     color: "green",
-    background: "grey",
+    background: "#595957",
     value: "/"
   },
   {
     name: "7",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "7"
   },
   {
     name: "8",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "8"
   },
   {
     name: "9",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "9"
   },
   {
     name: "X",
     color: "green",
-    background: "grey",
+    background: "#595957",
     value: "*"
   },
   {
     name: "4",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "4"
   },
   {
     name: "5",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "5"
   },
   {
     name: "6",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "6"
   },
   {
     name: "-",
     color: "green",
-    background: "grey",
+    background: "#595957",
     value: "-"
   },
   {
     name: "1",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "1"
   },
   {
     name: "2",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "2"
   },
   {
     name: "3",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "3"
   },
   {
     name: "+",
     color: "green",
-    background: "grey",
+    background: "#595957",
     value: "+"
   },
   {
     name: "+/-",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "+/-"
   },
   {
     name: "0",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "0"
   },
   {
     name: ".",
     color: "white",
-    background: "grey",
+    background: "#595957",
     value: "."
   },
   {

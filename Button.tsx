@@ -12,17 +12,17 @@ interface ButtonProps {
 const Button: React.FC<ButtonProps> = ({ name, bgColor ,color1,value,setExpression,expression}) => {
     const [stateCounter,setStateCounter]=useState<boolean>(false);
 const handleExpression=(e:any,value:string)=>{
-if(value=="C"){
-    setExpression("");
-}
-else if(value=="="){
-    const result=eval(expression);
-    setExpression(result);
-}
-else if(value=="()"){
-    if(stateCounter==false){
-        setExpression(prev=>prev+"(");
+    if(value=="C"){
+        setExpression("");
     }
+    else if(value=="="){
+        const result=eval(expression);
+        setExpression(result);
+    }
+    else if(value=="()"){
+        if(stateCounter==false){
+            setExpression(prev=>prev+"(");
+        }
     else{
         setExpression(prev=>prev+")");
 
